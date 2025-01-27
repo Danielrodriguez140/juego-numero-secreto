@@ -1,6 +1,6 @@
 /* ----VARIAVLES----------- ------------------------*/
 
-let maxDeNumeros = 3;
+let maxDeNumeros = 6;
 let numeroSecreto = null; // null deja en espera que algo resivira
 let reinicia = document.getElementById("reiniciar");
 let maxIntentos = 3;
